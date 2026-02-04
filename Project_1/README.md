@@ -1,5 +1,6 @@
 # Project 1: Optimization of the Matrix Product
 Contributors: Addison, Connor, Joe, Rey
+
 Report Authors: Addison, Joe, Rey
 
 ## Usage
