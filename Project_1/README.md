@@ -3,6 +3,8 @@ Contributors: Addison, Connor, Joe, Rey
 
 Report Authors: Addison, Joe, Rey
 
+**revised-report.pdf** is the good copy of the report!
+
 ## Usage
 1. Use `bash runBenchmarks.sh` to run the full set of tests for each language, compiler, optimization, and method.
 2. Results will be saved in `results.csv`
